@@ -45,11 +45,12 @@ img{
 h1, p{
     color: rgb(158, 140, 140);
     margin: 5px;
+    margin-bottom: 15px;
 }
 h3{
     color: hsl(75, 94%, 57%);
     margin: 5px;
-    hsl(0, 0%, 12%)
+    margin-bottom: 30px;
 }
 
 .sociallinks{
@@ -64,9 +65,10 @@ h3{
     text-decoration: none;
     color: white; 
     display: inline-block;
-    padding: 10px 20px;
+    padding: 10px;
+    width: 100%;
     border-radius: 5px;
-    margin: 10px;
+    margin: 5px;
     background-color: hsl(0, 0%, 20%);
     font-weight: 700;
 }
